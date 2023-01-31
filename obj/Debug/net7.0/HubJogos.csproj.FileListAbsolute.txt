@@ -1,0 +1,15 @@
+C:\HubJogos\bin\Debug\net7.0\HubJogos.exe
+C:\HubJogos\bin\Debug\net7.0\HubJogos.deps.json
+C:\HubJogos\bin\Debug\net7.0\HubJogos.runtimeconfig.json
+C:\HubJogos\bin\Debug\net7.0\HubJogos.dll
+C:\HubJogos\bin\Debug\net7.0\HubJogos.pdb
+C:\HubJogos\obj\Debug\net7.0\HubJogos.csproj.AssemblyReference.cache
+C:\HubJogos\obj\Debug\net7.0\HubJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\HubJogos\obj\Debug\net7.0\HubJogos.AssemblyInfoInputs.cache
+C:\HubJogos\obj\Debug\net7.0\HubJogos.AssemblyInfo.cs
+C:\HubJogos\obj\Debug\net7.0\HubJogos.csproj.CoreCompileInputs.cache
+C:\HubJogos\obj\Debug\net7.0\HubJogos.dll
+C:\HubJogos\obj\Debug\net7.0\refint\HubJogos.dll
+C:\HubJogos\obj\Debug\net7.0\HubJogos.pdb
+C:\HubJogos\obj\Debug\net7.0\HubJogos.genruntimeconfig.cache
+C:\HubJogos\obj\Debug\net7.0\ref\HubJogos.dll
