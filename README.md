@@ -12,13 +12,13 @@ Projeto em desenvolvimento para o programa de formação Sharp Coders da IMÃ Le
 
 # JOGOS
 
-### Jogo da Velha
+# Jogo da Velha
 
  <p align="center">
-   <img src="Images\jogodavelha.png">
+   <img width="150px" src="Images\jogodavelha.png">
 </p>
 
-### Jogo Batalha Naval
+# Jogo Batalha Naval
 
  <p align="center">
    <img src="Images\batalhanaval.png">
@@ -34,7 +34,7 @@ Projeto em desenvolvimento para o programa de formação Sharp Coders da IMÃ Le
 # Tecnologia Utilizada
 
  <p>
-      <a href="#Tecnologias"> <img width="80px" height="80px" alt="img3" title="img3" src="images\csharp.png" /></a> 
+      <a href="#Tecnologias"> <img width="80px" height="80px" alt="img3" title="img3" src="Images\csharp.png" /></a> 
 </p>
 
 # Entre em contato comigo
